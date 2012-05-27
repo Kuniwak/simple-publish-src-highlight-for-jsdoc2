@@ -1,8 +1,8 @@
-h1. Simple JsDoc published source hilight
+h1. Simple JsDoc published source highlight
 
 h2. Abstract
 
-This is a JsDoc plugin that provides simple JsDoc published source hilight.
+This is a JsDoc plugin that provides simple JsDoc published source highlight.
 
 
 h2. Install
